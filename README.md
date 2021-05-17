@@ -3,6 +3,8 @@
 
 In this code, for doing a wavelet transform, Open source library - PyWavelts is used. 
 
+More details about PyWavelets can be found [here](https://pywavelets.readthedocs.io/en/latest/).
+
 ## Printing Original Siganl
 I loaded the short **DATA.wmv** voice file with this code. 
 
